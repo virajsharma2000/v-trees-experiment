@@ -1,0 +1,1 @@
+there are numerous of my tree data structure experiments of tiny problems here. It uses BFS(Breadth First Recursion), because DFS is too tough for me, so my code might be less performant. I am enjoying a lot learning tree data structures since it requires a lot of problem solving.
